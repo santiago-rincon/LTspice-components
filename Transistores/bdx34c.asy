@@ -1,0 +1,50 @@
+Version 4
+SymbolType CELL
+LINE Normal 16 64 44 76
+LINE Normal 44 76 36 84
+LINE Normal 16 64 36 84
+LINE Normal 40 80 64 96
+LINE Normal 16 80 16 16
+LINE Normal 16 32 64 0
+LINE Normal 16 48 0 48
+LINE Normal -80 0 -52 12
+LINE Normal -52 12 -60 20
+LINE Normal -80 0 -60 20
+LINE Normal -56 16 -32 32
+LINE Normal -80 16 -80 -48
+LINE Normal -80 -32 -32 -64
+LINE Normal -32 48 -32 32
+LINE Normal 0 48 -32 48
+LINE Normal 64 112 64 96
+LINE Normal -32 112 64 112
+LINE Normal -32 48 -32 112
+LINE Normal -32 -80 -32 -63
+LINE Normal 64 -80 -32 -80
+LINE Normal 64 0 64 -80
+LINE Normal 64 -96 64 -80
+LINE Normal -112 -16 -80 -16
+LINE Normal 104 5 88 5
+LINE Normal 96 16 104 5
+LINE Normal 88 5 96 16
+LINE Normal 104 16 88 16
+LINE Normal 64 -80 96 -80
+LINE Normal 96 5 96 -80
+LINE Normal 64 112 96 112
+LINE Normal 96 16 96 112
+LINE Normal 64 128 64 112
+WINDOW 0 -133 40 Left 2
+WINDOW 3 -133 76 Left 2
+SYMATTR Value BDX34C
+SYMATTR Prefix x
+SYMATTR Description Bipolar PNP Darlington transistor
+SYMATTR SpiceModel bdx34c.lib
+SYMATTR Value2 BDX34C
+PIN 64 -96 NONE 8
+PINATTR PinName 1
+PINATTR SpiceOrder 1
+PIN -112 -16 NONE 8
+PINATTR PinName 2
+PINATTR SpiceOrder 2
+PIN 64 128 NONE 8
+PINATTR PinName 3
+PINATTR SpiceOrder 3
